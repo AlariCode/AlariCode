@@ -2,20 +2,27 @@
 
 Мои курсы, канал и подкаст доступны на сайте https://purpleschool.ru
 
+## TypeScript с нуля - полный курс и паттерны проектирования
+Полный курс по современному TypeScript в 2022 году и ООП паттернам проектирования для создания поддерживаемых приложений
+
+![Docker + Ansible](https://purpleschool.ru/course5.png)
+
+[Узнать подробнее](https://www.udemy.com/course/typescript-full/?couponCode=D5B66207F650DF66879F)
+
 
 ## Node.js - с нуля, основы и построение архитектуры приложений
 Полный курс по написанию приложений на Node.js и построению масштабируемой и поддерживаемой архитектуры!
 
 ![Docker + Ansible](https://purpleschool.ru/course4.png)
 
-[Узнать подробнее](https://www.udemy.com/course/nodejs-start/?referralCode=138804928911AFA54CB5)
+[Узнать подробнее](https://www.udemy.com/course/nodejs-start/?couponCode=26E774E2D601D843C108)
 
 ## Docker + Ansible - с нуля, деплой и управление Swarm
 Полный курс по работе с Docker, Docker Compose, Docker Swarm и Ansible на примере выкладки реального стека проекта.
 
 ![Docker + Ansible](https://purpleschool.ru/course3.png)
 
-[Узнать подробнее](https://www.udemy.com/course/docker-ansible/?referralCode=A1BC26733E41F456F90B)
+[Узнать подробнее](https://www.udemy.com/course/docker-ansible/?couponCode=6072D6A40B97078CEE5D)
 
 
 ## React + Next.js - с нуля
@@ -23,7 +30,7 @@
 
 ![React + Next.js](https://purpleschool.ru/course1.png)
 
-[Узнать подробнее](https://www.udemy.com/course/react-nextjs/?referralCode=830DC072C555710C4735)
+[Узнать подробнее](https://www.udemy.com/course/react-nextjs/?couponCode=7BB3C83EDA94B0C17B10)
 
 
 ## NestJS - с нуля, современный backend на TypeScript и Node JS
@@ -31,4 +38,4 @@
 
 ![NestJS](https://purpleschool.ru/course2.png)
 
-[Узнать подробнее](https://www.udemy.com/course/nestjs-backend-typescript-node-js/?referralCode=77E9B1F5344C735C5F4C)
+[Узнать подробнее](https://www.udemy.com/course/nestjs-backend-typescript-node-js/?couponCode=B616DCEA5340E81F7AB9)
