@@ -2,6 +2,14 @@
 
 Мои курсы, канал и подкаст доступны на сайте https://purpleschool.ru
 
+## JavaScript с нуля - основы языка и практика для начинающих
+Базовый курс по современному JavaScript в 2023 году для начинающих. С нуля до проекта на реальных примерах и упражнениях
+
+![JavaScript с нуля](https://cdn-bucket.hb.bizmrg.com/purple-images/documents/cover-javascript.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/javascript-basics)
+
+
 ## TypeScript с нуля - полный курс и паттерны проектирования
 Полный курс по современному TypeScript в 2022 году и ООП паттернам проектирования для создания поддерживаемых приложений
 
