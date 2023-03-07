@@ -2,6 +2,13 @@
 
 Мои курсы, канал и подкаст доступны на сайте https://purpleschool.ru
 
+## JavaScript Advanced - продвинутые концепции языка и ООП
+Продвинутый курс по JavaScript с погружением в ООП, асинхронность, Event Loop, модульность, структуры данных и сборку
+
+![JavaScript Advanced](http://cdn-bucket.hb.bizmrg.com/purple-images/courses/undefined/%C3%90%C2%9E%C3%90%C2%B1%C3%90%C2%BB%C3%90%C2%BE%C3%90%C2%B6%C3%90%C2%BA%C3%90%C2%B0-adv.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/javascript-basics)
+
 ## JavaScript с нуля - основы языка и практика для начинающих
 Базовый курс по современному JavaScript в 2023 году для начинающих. С нуля до проекта на реальных примерах и упражнениях
 
@@ -55,3 +62,8 @@
 ![NestJS](http://cdn-bucket.hb.bizmrg.com/purple-images/courses/undefined/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg)
 
 [Узнать подробнее](https://purpleschool.ru/course/microservices)
+
+Другие мои проекты:
+- https://courses-top.ru
+- https://sellers-top.ru
+- https://vse-promokodi.ru
