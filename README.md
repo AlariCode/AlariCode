@@ -65,5 +65,6 @@
 
 Другие мои проекты:
 - https://courses-top.ru
+- https://kursly.ru
 - https://sellers-top.ru
 - https://vse-promokodi.ru
