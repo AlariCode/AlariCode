@@ -2,6 +2,20 @@
 
 Мои курсы, канал и подкаст доступны на сайте https://purpleschool.ru
 
+## Основы разработки
+Выбор направления в профессии и основы JavaScript
+
+![HTML и CSS](http://cdn-bucket.hb.bizmrg.com/purple-images/courses/undefined/%C3%90%C2%9E%C3%90%C2%B1%C3%90%C2%BB%C3%90%C2%BE%C3%90%C2%B6%C3%90%C2%BA%C3%90%C2%B0-code-basics.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/code-basics)
+
+## HTML и CSS - полный курс по вёрстке с нуля
+Изучите все особенности HTML5 и CSS3, чтобы создавать современные адаптивные сайты на flexbox и CSS Grid
+
+![HTML и CSS](http://cdn-bucket.hb.bizmrg.com/purple-images/courses/undefined/%C3%90%C2%9E%C3%90%C2%B1%C3%90%C2%BB%C3%90%C2%BE%C3%90%C2%B6%C3%90%C2%BA%C3%90%C2%B0.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/html-css)
+
 ## JavaScript Advanced - продвинутые концепции языка и ООП
 Продвинутый курс по JavaScript с погружением в ООП, асинхронность, Event Loop, модульность, структуры данных и сборку
 
@@ -16,6 +30,12 @@
 
 [Узнать подробнее](https://purpleschool.ru/course/javascript-basics)
 
+## Основы React, React Router и Redux Toolkit
+Полный курс по современному React в 2023 - Hooks, Redux Toolkit, React Router
+
+![React с нуля](https://cdn-bucket.hb.ru-msk.vkcs.cloud/purple-images/courses/undefined/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-react.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/react-redux)
 
 ## TypeScript с нуля - полный курс и паттерны проектирования
 Полный курс по современному TypeScript в 2022 году и ООП паттернам проектирования для создания поддерживаемых приложений
@@ -41,7 +61,7 @@
 [Узнать подробнее](https://purpleschool.ru/course/docker)
 
 
-## React + Next.js - с нуля
+## Next.js - с нуля
 Полный курс по современному Frontend на React и Next.js. Всё от CSS Grid и TypeScript до React Hooks и SSR
 
 ![React + Next.js](http://cdn-bucket.hb.bizmrg.com/purple-images/courses/undefined/3965984_9788_2.jpeg)
@@ -62,6 +82,13 @@
 ![NestJS](http://cdn-bucket.hb.bizmrg.com/purple-images/courses/undefined/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg)
 
 [Узнать подробнее](https://purpleschool.ru/course/microservices)
+
+## Основы Linux
+Курс по структуре Linux, работе Bash, сетям и управлению пакетами и службами
+
+![Основы Linux](http://cdn-bucket.hb.bizmrg.com/purple-images/courses/undefined/%C3%90%C2%9E%C3%90%C2%B1%C3%90%C2%BB%C3%90%C2%BE%C3%90%C2%B6%C3%90%C2%BA%C3%90%C2%B0-linux.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/linux)
 
 Другие мои проекты:
 - https://courses-top.ru
