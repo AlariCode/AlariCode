@@ -90,6 +90,20 @@
 
 [Узнать подробнее](https://purpleschool.ru/course/linux)
 
+## React и Redux Toolkit
+Курс по структуре Linux, работе Bash, сетям и управлению пакетами и службами
+
+![React и Redux Toolkit](https://cdn-bucket.hb.ru-msk.vkcs.cloud/purple-images/courses/undefined/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-react.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/react-redux)
+
+## Kubernetes и Helm
+Курс по структуре Linux, работе Bash, сетям и управлению пакетами и службами
+
+![Kubernetes и Helm](https://cdn-bucket.hb.bizmrg.com/purple-images/profile-images/5413f602-3fbc-4461-825c-efeb1acff221.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/kubernetes-helm)
+
 Другие мои проекты:
 - https://courses-top.ru
 - https://kursly.ru
