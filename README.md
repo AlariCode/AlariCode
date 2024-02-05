@@ -109,3 +109,4 @@
 - https://kursly.ru
 - https://sellers-top.ru
 - https://vse-promokodi.ru
+- https://ratingus.ru
