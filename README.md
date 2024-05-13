@@ -105,8 +105,6 @@
 [Узнать подробнее](https://purpleschool.ru/course/kubernetes-helm)
 
 Другие мои проекты:
-- https://courses-top.ru
+- https://coursus.ru
 - https://kursly.ru
-- https://sellers-top.ru
-- https://vse-promokodi.ru
 - https://ratingus.ru
