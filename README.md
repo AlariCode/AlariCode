@@ -104,6 +104,13 @@
 
 [Узнать подробнее](https://purpleschool.ru/course/kubernetes-helm)
 
+## React Native и Expo Router
+Полный курс по созданию приложения на React Native и Expo Router
+
+![React Native и Expo Router](https://cdn-bucket.hb.bizmrg.com/purple-images/profile-images/8c57cc41-9444-4d70-a906-9ce1f21bf42b.jpg)
+
+[Узнать подробнее](https://purpleschool.ru/course/react-native)
+
 Другие мои проекты:
 - https://coursus.ru
 - https://kursly.ru
